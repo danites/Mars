@@ -1,0 +1,5 @@
+Hello file is created.
+
+
+
+This is the way git worked.
